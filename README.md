@@ -25,3 +25,8 @@ WELCOME SITHUWA-MD WHATSAPP BOT
 ## Deploy කිරීමට පහත බටන් එක ක්ලික් කරන්න.
   
 <div align="left"><a href="https://dashboard.heroku.com/new?template=https://github.com/Sithuwa/SITHUWA-BOT-MD"><img src="https://www.herokucdn.com/deploy/button.svg" width="150" ></a></div>
+  
+### Thanks To
+  
+- [Yusuf Usta](https://github.com/Quiec) for [WhatsAsena](https://github.com/yusufusta/WhatsAsena)
+- [@adiwajshing](https://github.com/adiwajshing) for [Baileys](https://github.com/adiwajshing/Baileys)
