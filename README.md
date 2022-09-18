@@ -11,3 +11,9 @@ WELCOME SITHUWA-MD WHATSAPP BOT
 <a href="https://github.com/Sithuwa/SITHUWA-BOT-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Sithuwa/SITHUWA-BOT-MD?color=red&style=flat-square"></a>
 <a href="https://github.com/Sithuwa/SITHUWA-BOT-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Sithuwa/SITHUWA-BOT-MD?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/Sithuwa/SITHUWA-BOT-MD"><img title="Size" src="https://img.shields.io/github/repo-size/Sithuwa/SITHUWA-BOT-MD?style=flat-square&color=green"></a>
+  
+***
+
+> QR කේතය ලබාගැනීමට පහත බටන් එක ක්ලික් කරන්න.
+
+<div align="left"><a href="https://levanter.up.railway.app/md"><img src="https://i.ibb.co/5WRBdGh/ab1985860df7.jpg" width="150" ></a></div>
