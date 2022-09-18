@@ -20,4 +20,4 @@ WELCOME SITHUWA-MD WHATSAPP BOT
 
 ## Deploy කිරීමට පහත බටන් එක ක්ලික් කරන්න.
   
-<div align="left"><a href="https://dashboard.heroku.com/new?template=https://github.com/Sithuwa/SITHUWA-BOT-MD"><img src="https://github.com/ravindu01manoj/ravindu01manoj/blob/main/media/Heroku_logo.svg.png" width="150" ></a></div>
+<div align="left"><a href="https://dashboard.heroku.com/new?template=https://github.com/Sithuwa/SITHUWA-BOT-MD"><img src="https://www.herokucdn.com/deploy/button.svg" width="150" ></a></div>
