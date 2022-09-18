@@ -6,6 +6,6 @@ WELCOME SITHUWA-MD WHATSAPP BOT
 
 ***
 
-<a href="https://github.com/Sithuwa/SITHUWA-BOT-MD"><img title="Followers" src="https://img.shields.io/github/followers/Sithuwa/SITHUWA-BOT-MD?e=flat-square">
+<a href="https://github.com/Sithuwa/SITHUWA-BOT-MD"><img title="Followers" src="https://img.shields.io/github/followers/Sithuwa?e=flat-square">
 <a href="https://github.com/Sithuwa/SITHUWA-BOT-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Sithuwa/SITHUWA-BOT-MD?color=blue&style=flat-square"></a>
 <a href="https://github.com/Sithuwa/SITHUWA-BOT-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Sithuwa/SITHUWA-BOT-MD?color=red&style=flat-square"></a>
