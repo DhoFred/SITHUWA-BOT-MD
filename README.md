@@ -11,7 +11,7 @@ WELCOME SITHUWA-MD WHATSAPP BOT
 <a href="https://github.com/Sithuwa/SITHUWA-BOT-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Sithuwa/SITHUWA-BOT-MD?color=red&style=flat-square"></a>
 <a href="https://github.com/Sithuwa/SITHUWA-BOT-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Sithuwa/SITHUWA-BOT-MD?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/Sithuwa/SITHUWA-BOT-MD"><img title="Size" src="https://img.shields.io/github/repo-size/Sithuwa/SITHUWA-BOT-MD?style=flat-square&color=green"></a>
-<a href="https://m.facebook.com/100049977400815/"><img alt="FaceBook" src="https://img.shields.io/badge/-FaceBook%20-lightgrey?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://m.facebook.com/100049977400815/"><img alt="FaceBook" src="https://img.shields.io/badge/-FaceBook%20-lightgrey?style=for-the-badge&logo=facebook&logoColor=yellow"/></a>
 
   
 ***
