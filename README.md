@@ -17,3 +17,7 @@ WELCOME SITHUWA-MD WHATSAPP BOT
 ## QR කේතය ලබාගැනීමට පහත බටන් එක ක්ලික් කරන්න.
 
 <div align="left"><a href="https://levanter.up.railway.app/md"><img src="https://repl.it/badge/github/quiec/whatsasena" width="150" ></a></div>
+
+## Deploy කිරීමට පහත බටන් එක ක්ලික් කරන්න.
+  
+<div align="left"><a href=" "><img src="https://github.com/ravindu01manoj/ravindu01manoj/blob/main/media/Heroku_logo.svg.png" width="150" ></a></div>
