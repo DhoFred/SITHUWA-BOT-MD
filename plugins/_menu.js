@@ -96,17 +96,18 @@ bot.addCommand(
 		let msg =
 			'```' +
 			`╭═══ SITHUWA ═══⊷
-┃❃╭──────────────
-┃❃│ Prefix : ${PREFIX}
-┃❃│ User : ${message.pushName}
-┃❃│ Time : ${date.toLocaleTimeString()}
-┃❃│ Day : ${date.toLocaleString('en', { weekday: 'long' })}
-┃❃│ Date : ${date.toLocaleDateString('hi')}
-┃❃│ Version : ${VERSION}
-┃❃│ Plugins : ${PLUGINS.count}
-┃❃│ Ram : ${getRam()}
-┃❃│ Uptime : ${getUptime('t')}
-┃❃╰───────────────
+┃✯╭──────────────
+┃✯│ Prefix : ${PREFIX}
+┃✯│ User : ${message.pushName}
+┃✯│ Time : ${date.toLocaleTimeString()}
+┃✯│ Day : ${date.toLocaleString('en', { weekday: 'long' })}
+┃✯│ Date : ${date.toLocaleDateString('hi')}
+┃✯│ Version : ${VERSION}
+┃✯│ Plugins : ${PLUGINS.count}
+┃✯│ Ram : ${getRam()}
+┃✯│ Uptime : ${getUptime('t')}
+┃✯╰───────────────
+┃   𝗦𝗜𝗧𝗛𝗨𝗪𝗔-𝗕𝗢𝗧-𝗠𝗗
 ╰═════════════════⊷
 ` +
 			'```'
