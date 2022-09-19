@@ -16,7 +16,7 @@ bot(
 	async (message, match) => {
 		if (!global.AFK.isAfk && !match)
 			return await message.send(
-				'උදාහරණය : මගේ හිමිකරු AFK\n අවසන් වරට දුටුවේ #latseen ට පෙර\nAFK අක්‍රිය කිරීමට නැවත පණිවිඩයක් යවන්න'
+				'*උදාහරණය : මගේ හිමිකරු AFK\n අවසන් වරට දුටුවේ #latseen ට පෙර\nAFK අක්‍රිය කිරීමට නැවත පණිවිඩයක් යවන්න.*'
 			)
 		if (!global.AFK.isAfk) {
 			if (match) global.AFK.reason = match
