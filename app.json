@@ -13,6 +13,11 @@
 			"description": "show bot number last seen as online",
 			"required": false,
 			"value": "false"
+                },
+		"SESSION_ID": {
+			"description": "session id",
+			"required": true,
+			"value": ""
 		},
 		"LOG_MSG": {
 			"description": "Show whatsapp msgs in log",
@@ -28,11 +33,6 @@
 			"description": "prefix, check for more",
 			"required": true,
 			"value": "."
-		},
-		"SESSION_ID": {
-			"description": "session id",
-			"required": true,
-			"value": ""
 		},
 		"STICKER_PACKNAME": {
 			"description": "sticker pack info",
