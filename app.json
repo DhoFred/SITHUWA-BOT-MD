@@ -19,6 +19,11 @@
 			"required": true,
 			"value": ""
 		},
+                "WORK_TYPE": {
+                        "description": "",
+                        "value": "public" ,
+                        "required": true
+		},
 		"LOG_MSG": {
 			"description": "Show whatsapp msgs in log",
 			"required": false,
