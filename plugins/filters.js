@@ -10,7 +10,7 @@ bot(
 		onlyGroup: true,
 	},
 	async (message, match) => {
-		if (!match) return await message.send(`*Example : .stop hi*`)
+		if (!match) return await message.send(`*උදාහරණය : .stop hi*`)
 		const isDel = await deleteFilter(message.jid, match)
 		if (!isDel)
 			return await message.send(`_${match} not found in filters_`)
@@ -32,7 +32,7 @@ bot(
 			const filters = await getFilter(message.jid)
 			if (!filters)
 				return await message.send(
-					`_Not set any filter_\n*Example filter 'hi' 'hello'*`
+					`_Not set any filter_\n*උදාහරණය filter 'hi' 'hello'*`
 				)
 			let msg = ''
 			filters.map(({ pattern }) => {
@@ -41,7 +41,7 @@ bot(
 			return await message.send(msg.trim())
 		} else {
 			if (match.length < 2) {
-				return await message.send(`Example filter 'hi' 'hello'`)
+				return await message.send(`උදාහරණය filter 'hi' 'hello'`)
 			}
 			await setFilter(
 				message.jid,
