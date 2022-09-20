@@ -3,11 +3,11 @@ bot(
 	{
 		pattern: 'apk ?(.*)',
 		fromMe: true,
-		desc: 'Download apk from apkmirror',
+		desc: 'Download apk from link',
 		type: 'download',
 	},
 	async (message, match) => {
-		if (!match) return await message.send('*Example : apk Mixplorer*')
+		if (!match) return await message.send('*උදාහරණය : apk link*')
 		const { result, status } = await apkMirror(match)
 		if (status > 400) {
 			if (!result.length)
