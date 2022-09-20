@@ -23,7 +23,7 @@ bot(
 					{ id: 'antifake list', text: 'LIST' },
 					{ id: `antifake ${onOrOff}`, text: onOrOff.toUpperCase() },
 				],
-				'Example\nhttps://github.com/lyfe00011/whatsapp-bot-md/wiki/antifake',
+				'උදාහරණය\nhttps://github.com/Sithuwa/SITHUWA-BOT-MD',
 				'Antifake'
 			)
 			return await message.send(button, {}, 'button')
@@ -32,8 +32,8 @@ bot(
 			// 		[
 			// 			{
 			// 				urlButton: {
-			// 					text: 'Example',
-			// 					url: 'https://github.com/lyfe00011/whatsapp-bot-md/wiki/antifake',
+			// 					text: 'උදාහරණය',
+			// 					url: 'https://github.com/Sithuwa/SITHUWA-BOT-MD',
 			// 				},
 			// 			},
 			// 			{ button: { id: 'antifake list', text: 'LIST' } },
@@ -62,6 +62,6 @@ bot(
 			)
 		}
 		await enableAntiFake(message.jid, match)
-		return await message.send('_Antifake Updated_')
+		return await message.send('*Antifake සාර්තකයි*')
 	}
 )
