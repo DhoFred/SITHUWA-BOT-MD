@@ -14,7 +14,7 @@
 			"required": false,
 			"value": "false"
                 },
-		"SESSION_ID": {
+		"SITHU SESSION": {
 			"description": "session id",
 			"required": true,
 			"value": ""
