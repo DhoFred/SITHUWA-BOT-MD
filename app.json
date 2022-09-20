@@ -10,60 +10,60 @@
 	"stack": "container",
 	"env": {
 		"ALWAYS_ONLINE": {
-			"description": "show bot number last seen as online",
+			"description": "සෑම අවස්තාවකදීම බොට් ඔන්ලයින් සිටින බව පෙන්විය යුතුද නැතිද?(true/false)",
 			"required": false,
 			"value": "false"
                 },
 		"SITHU SESSION": {
-			"description": "session id",
+			"description": "SITHU QR කෝඩය ස්කෑන් කර ලබාගත් කේතය ඇතුලත් කරන්න.",
 			"required": true,
 			"value": ""
 		},
                 "WORK_TYPE": {
                         "description": "",
-                        "value": "public" ,
+                        "value": "private" ,
                         "required": true
 		},
 		"LOG_MSG": {
-			"description": "Show whatsapp msgs in log",
+			"description": "ලොග් මැසේජ් පෙන්විය යුතුද නැතිද?(true/false)",
 			"required": false,
 			"value": "false"
 		},
 		"SUDO": {
-			"description": "admin",
+			"description": "පරිපාලකයකු කිරීමට අවශ්‍ය නම්බර් එකක් යොදන්න.",
 			"required": true,
-			"value": "null"
+			"value": ""
 		},
 		"PREFIX": {
-			"description": "prefix, check for more",
+			"description": "කමාන්ඩ් බාවිතයේ අවශ්‍ය සංකේතය යොදන්න.",
 			"required": true,
 			"value": "."
 		},
 		"STICKER_PACKNAME": {
-			"description": "sticker pack info",
+			"description": "ස්ටිකර් පැක් සදහා යොදන නම යොදන්න.",
 			"required": true,
-			"value": "❤️,LyFE"
+			"value": "కỉᡶꫝꪊ᭙ꪖ"
 		},
 		"HEROKU_APP_NAME": {
-			"description": "Heroku app name, same as above entered",
+			"description": "ඉහත යෙදූ නාමය ඇතුලත් කරන්න.",
 			"required": true
 		},
 		"HEROKU_API_KEY": {
-			"description": "Heroku account api key, https://dashboard.heroku.com/account",
+			"description": "හෙරෝකූ API KEY එක ඇතුලත් කරන්න.",
 			"required": true
 		},
 		"RMBG_KEY": {
-			"description": "API key from remove.bg, required for plugin rmbg",
+			"description": "RMBG API KEY එක ඇතුලත් කරන්න.",
 			"required": true,
-			"value": "null"
+			"value": ""
 		},
 		"LANGUAG": {
-			"description": "Default Language for tts or trt",
+			"description": "බොට් අවශ්‍ය බාශාව ඇතුලත් කරන්න.(SI/EN)",
 			"required": false,
-			"value": "en"
+			"value": "SI"
 		},
 		"WARN_LIMIT": {
-			"description": "Maximum number of wanings to a person.",
+			"description": "පුද්ගලයෙකුට වියැකී යාමේ උපරිම සංඛ්‍යාව යොදන්න.",
 			"required": false,
 			"value": "3"
 		},
@@ -71,11 +71,6 @@
 			"description": "In Some scenario have to logout web, Only such case make this true and back to false after logout.",
 			"required": false,
 			"value": "false"
-		},
-		"DISABLE_BOT": {
-			"description": "Example : jid,jid,... where bot not works in both ways.",
-			"required": false,
-			"value": "null"
 		},
 		"ANTILINK_MSG": {
 			"description": "Message send when antilink and action is kick.",
