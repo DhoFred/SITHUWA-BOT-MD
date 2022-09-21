@@ -22,6 +22,6 @@ bot(
 			await message.reply_message.downloadMediaMessage(),
 			message.jid
 		)
-		return await message.send('_Group icon Updated_')
+		return await message.send('*Group icon Updated*')
 	}
 )
