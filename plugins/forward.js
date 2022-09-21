@@ -9,7 +9,7 @@ bot(
 	},
 	async (message, match) => {
 		if (!message.reply_message)
-			return await message.send('*Reply to a message*')
+			return await message.send('*පනිවිඩයට පිළිතුරු දෙන්න*')
 		for (const jid of parsedJid(match)) await forwardOrBroadCast(jid, message)
 	}
 )
@@ -23,7 +23,7 @@ bot(
 	},
 	async (message, match) => {
 		if (!message.reply_message)
-			return await message.send('*Reply to a message*')
+			return await message.send('*පනිවිඩයට පිළිතුරු දෙන්න*')
 		await forwardOrBroadCast(message.participant, message)
 	}
 )
