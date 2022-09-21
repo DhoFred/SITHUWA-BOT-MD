@@ -14,10 +14,10 @@ bot(
 		if (isRestrict) {
 			const participants = await message.groupMetadata(message.jid)
 			const isImAdmin = await isAdmin(participants, message.client.user.jid)
-			if (!isImAdmin) return await message.send(`_I'm not admin._`)
+			if (!isImAdmin) return await message.send(`*මම පරිපාලකයකු නොවේ.*`)
 		}
 		if (!message.reply_message || !message.reply_message.image)
-			return await message.send('*Reply to a image.*')
+			return await message.send('*පින්තූරයකට පිළිතුරු දෙන්න.*')
 		await message.updateProfilePicture(
 			await message.reply_message.downloadMediaMessage(),
 			message.jid
