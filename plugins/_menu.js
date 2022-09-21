@@ -22,15 +22,10 @@ bot.addCommand(
 ╰────────────────╯
 
 ╭────────────────
-│ Prefix : ${PREFIX}
-│ User : ${message.pushName}
-│ Time : ${date.toLocaleTimeString()}
-│ Day : ${date.toLocaleString('en', { weekday: 'long' })}
-│ Date : ${date.toLocaleDateString('hi')}
-│ Version : ${VERSION}
-│ Plugins : ${PLUGINS.count}
-│ Ram : ${getRam()}
-│ Uptime : ${getUptime('t')}
+│ 𝗨𝗦𝗘𝗥 : ${message.pushName}
+│ 𝗧𝗜𝗠𝗘 : ${date.toLocaleTimeString()}
+│ 𝗗𝗔𝗧𝗘 : ${date.toLocaleDateString('hi')}
+│ 𝗣𝗟𝗨𝗚𝗜𝗡𝗦 : ${PLUGINS.count}
 ╰────────────────
     ꜱɪᴛʜᴜᴡᴀ-ʙᴏᴛ-ᴍᴅ
 ╭────────────────
@@ -97,15 +92,10 @@ bot.addCommand(
 			'```' +
 			`╭═══ SITHUWA ═══⊷
 ┃✯╭──────────────
-┃✯│ Prefix : ${PREFIX}
-┃✯│ User : ${message.pushName}
-┃✯│ Time : ${date.toLocaleTimeString()}
-┃✯│ Day : ${date.toLocaleString('en', { weekday: 'long' })}
-┃✯│ Date : ${date.toLocaleDateString('hi')}
-┃✯│ Version : ${VERSION}
-┃✯│ Plugins : ${PLUGINS.count}
-┃✯│ Ram : ${getRam()}
-┃✯│ Uptime : ${getUptime('t')}
+┃✯│ 𝗨𝗦𝗘𝗥 : ${message.pushName}
+┃✯│ 𝗧𝗜𝗠𝗘 : ${date.toLocaleTimeString()}
+┃✯│ 𝗗𝗔𝗧𝗘 : ${date.toLocaleDateString('hi')}
+┃✯│ 𝗣𝗟𝗨𝗚𝗜𝗡𝗦 : ${PLUGINS.count}
 ┃✯╰───────────────
 ┃   𝗦𝗜𝗧𝗛𝗨𝗪𝗔-𝗕𝗢𝗧-𝗠𝗗
 ╰═════════════════⊷
