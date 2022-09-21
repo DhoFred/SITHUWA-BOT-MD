@@ -22,12 +22,12 @@
   
 <div align="left"><a href="https://dashboard.heroku.com/new?template=https://github.com/Sithuwa/SITHUWA-BOT-MD"><img src="https://www.herokucdn.com/deploy/button.svg" width="150" ></a></div>
   
-### Developers
----
-@Sithum Kalhara
----
-@Sathira Thamuditha
----
+# Developers
+  
+◉ @Sithum Kalhara
+
+◉ @Sathira Thamuditha
+
 ### Thanks To
   
 - [Yusuf Usta](https://github.com/Quiec) for [WhatsAsena](https://github.com/yusufusta/WhatsAsena)
