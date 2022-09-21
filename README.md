@@ -24,8 +24,8 @@
   
 ### Developers
 
-@Sithum Kalhara
-@Sathira Thamuditha
+***@Sithum Kalhara***
+***@Sathira Thamuditha***
 
 ### Thanks To
   
