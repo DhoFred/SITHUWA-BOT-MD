@@ -16,7 +16,7 @@
 
 ## QR කේතය ලබාගැනීමට පහත බටන් එක ක්ලික් කරන්න.
 
-<div align="left"><a href="https://levanter.up.railway.app/md"><img src="https://repl.it/badge/github/quiec/whatsasena" width="150" ></a></div>
+<div align="left"><a href="https://replit.com/@SithuwaHack/SITHUWA-BOT-MD-V1?v=1"><img src="https://repl.it/badge/github/quiec/whatsasena" width="150" ></a></div>
 
 ## Deploy කිරීමට පහත බටන් එක ක්ලික් කරන්න.
   
