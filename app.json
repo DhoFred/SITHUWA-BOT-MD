@@ -2,10 +2,7 @@
 	"name": "SITHUWA-MD",
 	"description": " Whatsapp bot.",
 	"logo": "https://telegra.ph/file/8f29a27dd91a19c21ae69.jpg",
-	"keywords": [
-		"whatsapp",
-		"bot"
-	],
+	"keywords": ["whatsapp","bot"],
 	"repository": "https://github.com/Sithuwa/SITHUWA-BOT-MD",
 	"stack": "container",
 	"env": {
